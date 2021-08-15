@@ -1,0 +1,6 @@
+Digital waiter:
+An inverted pendulum based robot waiter with a screen and voice recognition to take orders without contact.
+IoT enabled meaning it can send over/communicate with the kitchen/employee.
+
+Robot Surveyor:
+A quadraped that can enter areas and use a lidar to scan the area creating a digital map.
